@@ -61,12 +61,3 @@ This feature is made possible by using the small yet powerful software called **
 Now, whenever you right-click in a folder and select "New", the option to create a Python file will be readily available.
 
 ---
-
-### 📥 Download ContextMenuManager
-
-You can download the ContextMenuManager executable files directly from this repository:
-
-* [ContextMenuManager.NET.3.5.exe](https://raw.githubusercontent.com/SeyyedSajjadFazeli/PythonNewFileContextMenuItem/main/ContextMenuManager.NET.3.5.exe)
-* [ContextMenuManager.NET.4.0.exe](https://raw.githubusercontent.com/SeyyedSajjadFazeli/PythonNewFileContextMenuItem/main/ContextMenuManager.NET.4.0.exe)
-
----

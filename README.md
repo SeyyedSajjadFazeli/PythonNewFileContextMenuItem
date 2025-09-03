@@ -11,7 +11,7 @@
 ### 📝 نحوه استفاده:
 
 1.  **نرم‌افزار ContextMenuManager را دانلود و اجرا کنید.**
-    * می‌توانید فایل‌های اجرایی نرم‌افزار را از پوشه [releases](https://github.com/SeyyedSajjadFazeli/PythonNewFileContextMenuItem/releases) این مخزن دانلود کنید.
+    * می‌توانید فایل‌های اجرایی نرم‌افزار را از این مخزن دانلود کنید.
     * **تصویر: صفحه اصلی ContextMenuManager**
       ![صفحه اصلی ContextMenuManager](https://raw.githubusercontent.com/SeyyedSajjadFazeli/PythonNewFileContextMenuItem/main/1.jpg)
 2.  پس از اجرای برنامه، از منوی سمت چپ، گزینه‌ی **"New"** را انتخاب کنید.
@@ -42,7 +42,7 @@ This feature is made possible by using the small yet powerful software called **
 ### 📝 How to Use:
 
 1.  **Download and run the ContextMenuManager software.**
-    * You can download the executable files of the software from the [releases](https://github.com/SeyyedSajjadFazeli/PythonNewFileContextMenuItem/releases) folder of this repository.
+    * You can download the executable files of the software from this repository.
     * **Image: ContextMenuManager Main Window**
       ![ContextMenuManager Main Window](https://raw.githubusercontent.com/SeyyedSajjadFazeli/PythonNewFileContextMenuItem/main/1.jpg)
 2.  After running the program, select **"New"** from the left-hand menu.
@@ -64,17 +64,9 @@ Now, whenever you right-click in a folder and select "New", the option to create
 
 ### 📥 Download ContextMenuManager
 
-You can download the ContextMenuManager executable files directly from the [releases page](https://github.com/SeyyedSajjadFazeli/PythonNewFileContextMenuItem/releases) of this repository.
+You can download the ContextMenuManager executable files directly from this repository:
 
-* [ContextMenuManager.NET.3.5.exe](https://github.com/SeyyedSajjadFazeli/PythonNewFileContextMenuItem/releases/download/v1.0.0/ContextMenuManager.NET.3.5.exe)
-* [ContextMenuManager.NET.4.0.exe](https://github.com/SeyyedSajjadFazeli/PythonNewFileContextMenuItem/releases/download/v1.0.0/ContextMenuManager.NET.4.0.exe)
+* [ContextMenuManager.NET.3.5.exe](https://raw.githubusercontent.com/SeyyedSajjadFazeli/PythonNewFileContextMenuItem/main/ContextMenuManager.NET.3.5.exe)
+* [ContextMenuManager.NET.4.0.exe](https://raw.githubusercontent.com/SeyyedSajjadFazeli/PythonNewFileContextMenuItem/main/ContextMenuManager.NET.4.0.exe)
 
 ---
-
-### 🤝 Contributions
-
-Feel free to open an issue or submit a pull request if you have any suggestions or improvements.
-
-### 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
